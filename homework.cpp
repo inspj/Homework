@@ -136,7 +136,6 @@ int main() {
     vector<int> table = {3, 2, 9, 4, 8};
     min_max(table); // problem 2
     fib_seq(); // problem 3
-    multiplication_table(); //problem 4
-
-    truth_table ();
+    multiplication_table(); // problem 4
+    truth_table (); // problem 5
 }
