@@ -18,7 +18,7 @@ int main () {
     int y = 2;
 
     Summation lel(x,y);
-    cout << lel.summ() << endl;
+    cout << "The sum of the two numbers is: " << lel.summ() << endl;
 
     int num1,num2,num3,num4;
 
